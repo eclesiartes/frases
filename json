@@ -1,3 +1,3 @@
-'Teste, Bom dia pra vc',
-'Teste, Boa tarde pra vc',
-'Teste, Boa noite pra vc'
+'Fala @$(user), Bom dia pra vc',
+'Fala @$(user), Boa tarde pra vc',
+'Fala @$(user), Boa noite pra vc'
